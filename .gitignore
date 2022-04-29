@@ -2,3 +2,4 @@
 # add names of files , dire that you don want to track
 
 *.txt
+*.java
